@@ -1,6 +1,4 @@
-<script setup lang="ts">
-import { Box } from "lucide-vue-next";
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <header class="bg-white border-b border-slate-200 sticky top-0 z-30">
